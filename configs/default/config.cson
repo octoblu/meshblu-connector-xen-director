@@ -1,0 +1,28 @@
+title: "Default Configuration"
+type: "object"
+properties:
+  options:
+    title: "Options"
+    type: "object"
+    properties:
+      customerId:
+        type: "string"
+      domain:
+        type: "string"
+      username:
+        type: "string"
+      password:
+        type: "string"
+      protocol:
+        type: "string"
+        default: "https"
+    required: [
+      "customerId"
+      "domain"
+      "username"
+      "password"
+      "protocol"
+    ]
+required: [
+  "options"
+]

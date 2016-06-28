@@ -1,0 +1,7 @@
+angular: [
+  { key: "options.customerId" }
+  { key: "options.domain" }
+  { key: "options.username" }
+  { key: "options.password" }
+  { key: "options.protocol" }
+]
