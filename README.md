@@ -1,11 +1,14 @@
 # meshblu-connector-xen-director
 
+[![Build Status](https://travis-ci.org/octoblu/meshblu-connector-xen-director.svg?branch=master)](https://travis-ci.org/octoblu/meshblu-connector-xen-director)
+[![Test Coverage](https://codecov.io/gh/octoblu/meshblu-connector-xen-director/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/meshblu-connector-xen-director)
 [![Dependency status](http://img.shields.io/david/octoblu/meshblu-connector-xen-director.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-xen-director)
 [![devDependency Status](http://img.shields.io/david/dev/octoblu/meshblu-connector-xen-director.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-xen-director#info=devDependencies)
-[![Build Status](http://img.shields.io/travis/octoblu/meshblu-connector-xen-director.svg?style=flat&branch=master)](https://travis-ci.org/octoblu/meshblu-connector-xen-director)
 [![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
 
 [![NPM](https://nodei.co/npm/meshblu-connector-xen-director.svg?style=flat)](https://npmjs.org/package/meshblu-connector-xen-director)
+[![Dependency status](http://img.shields.io/david/octoblu/meshblu-connector-xen-director.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-xen-director)
+
 
 ## Installing
 
